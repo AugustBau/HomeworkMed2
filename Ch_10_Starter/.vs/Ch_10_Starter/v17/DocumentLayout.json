@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\assets\\scripts\\gamebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|c:\\users\\august\\onedrive\\documents\\github\\learning-c-by-developing-games-with-unity-seventh-edition\\ch_10_starter\\assets\\scripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\assets\\scripts\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|c:\\users\\august\\onedrive\\documents\\github\\learning-c-by-developing-games-with-unity-seventh-edition\\ch_10_starter\\assets\\scripts\\customextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\assets\\scripts\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B129C6AE-5C5F-AF1F-8E6A-DCD955BFBB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\CustomExtensions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomExtensions.cs",
+              "ToolTip": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\CustomExtensions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:52:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataManager.cs",
+              "ToolTip": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:49:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\IManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IManager.cs",
+              "ToolTip": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\IManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:42:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\GameBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameBehavior.cs",
+              "ToolTip": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\GameBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameBehavior.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:33:45.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\Utilities.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities.cs",
+              "ToolTip": "C:\\Users\\August\\OneDrive\\Documents\\GitHub\\Learning-C-by-Developing-Games-with-Unity-Seventh-Edition\\Ch_10_Starter\\Assets\\Scripts\\Utilities.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:32:11.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
